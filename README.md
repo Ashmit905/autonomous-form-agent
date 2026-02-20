@@ -9,6 +9,8 @@ An AI agent that autonomously fills out multi-section web forms using Google Gem
 - Auto-scheduler that runs every 5 minutes
 - Secure API key management via .env
 
+- "Note: This runs locally as it requires browser automation. No deployment needed."
+
 ## Setup
 
 ### System Requirements
